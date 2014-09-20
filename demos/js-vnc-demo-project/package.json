@@ -1,0 +1,12 @@
+{
+  "name": "js-vnc",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mgechev/js-vnc"
+  },
+  "dependencies": {
+    "socket.io": "~0.9.16",
+    "connect": "~2.8.5"
+  }
+}

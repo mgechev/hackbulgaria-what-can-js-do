@@ -1,0 +1,506 @@
+[
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "step title",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "about.html",
+        "id": "about",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "content.html",
+        "id": "content",
+        "class": "step",
+        "data": {
+            "x": 4000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "snowcrash-about.html",
+        "id": "snowcrash-about",
+        "class": "step",
+        "data": {
+            "x": 4000,
+            "y": 1000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "technologies.html",
+        "id": "technologies",
+        "class": "step",
+        "data": {
+            "x": 4500,
+            "y": 1500,
+            "z": 1000,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "webrtc.html",
+        "id": "webrtc",
+        "class": "step",
+        "data": {
+            "x": 4500,
+            "y": 3500,
+            "z": 1000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "webrtc-about.html",
+        "id": "webrtc-about",
+        "class": "step",
+        "data": {
+            "x": 5500,
+            "y": 3500,
+            "z": 1000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "webrtc-about-2.html",
+        "id": "webrtc-about-2",
+        "class": "step",
+        "data": {
+            "x": 7000,
+            "y": 3500,
+            "z": 1000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "webrtc-funny.html",
+        "id": "webrtc-funny",
+        "class": "step",
+        "data": {
+            "x": 8500,
+            "y": 3500,
+            "z": 1000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "why-not-flash.html",
+        "id": "why-not-flash",
+        "class": "step",
+        "data": {
+            "x": 8500,
+            "y": 4500,
+            "z": 1000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "seriously.html",
+        "id": "seriously",
+        "class": "step",
+        "data": {
+            "x": 8500,
+            "y": 6500,
+            "z": 1000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "bazinga.html",
+        "id": "bazinga",
+        "class": "step",
+        "data": {
+            "x": 8500,
+            "y": 6500,
+            "z": 1000,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "flash-is.html",
+        "id": "flash-is",
+        "class": "step",
+        "data": {
+            "x": 10500,
+            "y": 6500,
+            "z": 1000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "proprietary-software.html",
+        "id": "proprietary-software",
+        "class": "step",
+        "data": {
+            "x": 10500,
+            "y": 8500,
+            "z": 1000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "browser-plugin.html",
+        "id": "browser-plugin",
+        "class": "step",
+        "data": {
+            "x": 10500,
+            "y": 9500,
+            "z": 1000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "limited-for-mobile-usage.html",
+        "id": "limited-for-mobile-usage",
+        "class": "step",
+        "data": {
+            "x": 10500,
+            "y": 10500,
+            "z": 1000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "and-come-on.html",
+        "id": "and-come-on",
+        "class": "step",
+        "data": {
+            "x": 10500,
+            "y": 11500,
+            "z": 1000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "so-what-about-webrtc.html",
+        "id": "so-what-about-webrtc",
+        "class": "step",
+        "data": {
+            "x": 10500,
+            "y": 11500,
+            "z": 3000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "webrtc-architecture.html",
+        "id": "webrtc-architecture",
+        "class": "step",
+        "data": {
+            "x": 13500,
+            "y": 11500,
+            "z": 3000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "webrtc-demo.html",
+        "id": "webrtc-demo",
+        "class": "step",
+        "data": {
+            "x": 13500,
+            "y": 13500,
+            "z": 3200,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "html5-canvas.html",
+        "id": "html5-canvas",
+        "class": "step",
+        "data": {
+            "x": 13500,
+            "y": 16500,
+            "z": 5200,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "canvas.html",
+        "id": "canvas",
+        "class": "step",
+        "data": {
+            "x": 13500,
+            "y": 16500,
+            "z": 7200,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 90,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "canvas-demo.html",
+        "id": "canvas-demo",
+        "class": "step",
+        "data": {
+            "x": 13800,
+            "y": 16500,
+            "z": 9200,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "websockets.html",
+        "id": "websockets",
+        "class": "step",
+        "data": {
+            "x": 15800,
+            "y": 16500,
+            "z": 9200,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "websockets-intro.html",
+        "id": "websockets-intro",
+        "class": "step",
+        "data": {
+            "x": 16800,
+            "y": 16500,
+            "z": 9200,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "websockets-demo.html",
+        "id": "websockets-demo",
+        "class": "step",
+        "data": {
+            "x": 17800,
+            "y": 16500,
+            "z": 9200,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "sticks.html",
+        "id": "sticks",
+        "class": "step",
+        "data": {
+            "x": 19000,
+            "y": 16500,
+            "z": 9200,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "movementjs.html",
+        "id": "movementjs",
+        "class": "step",
+        "data": {
+            "x": 21000,
+            "y": 16500,
+            "z": 13200,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "websockets-canvas-imagination.html",
+        "id": "websockets-canvas-imagination",
+        "class": "step",
+        "data": {
+            "x": 21000,
+            "y": 16500,
+            "z": 9200,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "vnc-demo.html",
+        "id": "vnc-demo",
+        "class": "step",
+        "data": {
+            "x": 23000,
+            "y": 17500,
+            "z": 10200,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "vnc-architecture.html",
+        "id": "vnc-architecture",
+        "class": "step",
+        "data": {
+            "x": 25000,
+            "y": 17500,
+            "z": 10200,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "vnc-easy.html",
+        "id": "vnc-easy",
+        "class": "step",
+        "data": {
+            "x": 25000,
+            "y": 20500,
+            "z": 10200,
+            "scale": 0.1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "and-now.html",
+        "id": "and-now",
+        "class": "step",
+        "data": {
+            "x": 26000,
+            "y": 20500,
+            "z": 10200,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "the-architecture-of-snow-crash.html",
+        "id": "the-architecture-of-snow-crash",
+        "class": "step",
+        "data": {
+            "x": 29000,
+            "y": 20500,
+            "z": 10200,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "snow-crash-architecture.html",
+        "id": "snow-crash-architecture",
+        "class": "step",
+        "data": {
+            "x": 31000,
+            "y": 20500,
+            "z": 10200,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "thank-you.html",
+        "id": "thank-you",
+        "class": "step",
+        "data": {
+            "x": 31000,
+            "y": 20500,
+            "z": 10200,
+            "scale": 100,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    }
+]

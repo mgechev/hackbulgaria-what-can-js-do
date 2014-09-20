@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="./css/bootstrap.min.css" />
+        <link rel="stylesheet" href="./css/styles.css" />
+    </head>
+    <body>
+        <div class="form-wrapper" id="form-wrapper">
+            <form class="form-horizontal" onsubmit="return false">
+              <div class="control-group">
+                <label class="control-label" for="host">Host:</label>
+                <div class="controls">
+                  <input type="text" id="host" name="host" value="" /><br />
+                </div>
+              </div>
+              <div class="control-group">
+                <label class="control-label" for="port">Port:</label>
+                <div class="controls">
+                  <input type="text" id="port" name="port" value="" /><br />
+                </div>
+              </div>
+              <div class="control-group">
+                <label class="control-label" for="password">Password:</label>
+                <div class="controls">
+                  <input type="password" id="password" name="password" value="" /><br />
+                </div>
+              </div>
+              <div class="control-group">
+                <div class="controls">
+                  <button class="btn" id="loginBtn">Log in</button>
+                </div>
+              </div>
+            </form>
+        </div>
+        <canvas id="screen">
+        </canvas>
+        <script src="http://localhost:8091/socket.io/socket.io.js"></script>
+        <script src="./js/client.js"></script>
+    </body>
+</html>
