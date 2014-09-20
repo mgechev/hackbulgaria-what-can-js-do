@@ -1,0 +1,1 @@
+Slides for the talk "What can JavaScript do?" at HackBulgaria
