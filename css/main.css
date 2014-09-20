@@ -58,7 +58,7 @@ img {
 /* VNC demo */
 
 .ipad-frame {
-  background-image: url(./images/ipad-frame.png);
+  background-image: url(/hackbulgaria-what-can-js-do/images/ipad-frame.png);
   background-size: 802px 539px;
   width: 802px;
   height: 539px;
@@ -102,7 +102,7 @@ img {
 }
 
 .ipad-screen {
-  background-image: url(./images/ipad-screen.png);
+  background-image: url(/hackbulgaria-what-can-js-do/images/ipad-screen.png);
   background-size: 641px 479px;
   position: absolute;
   z-index: 2;
@@ -131,7 +131,7 @@ img {
 }
 
 .windows-icon {
-  background-image: url(./images/windows-icon.png);
+  background-image: url(/hackbulgaria-what-can-js-do/images/windows-icon.png);
   top: 300px;
   left: 169px;
 }
@@ -143,7 +143,7 @@ img {
 }
 
 .linux-icon {
-  background-image: url(./images/linux-icon.png);
+  background-image: url(/hackbulgaria-what-can-js-do/images/linux-icon.png);
   top: 300px;
   left: 292px;
 }
